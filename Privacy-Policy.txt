@@ -1,0 +1,11 @@
+1. WHAT DATA DOES THIS BOT STORE?
+    Song Files
+    User names 
+    The date you requested the song
+    What server
+2. HOW WE USE THIS DATA?
+    a) We use these files when you request a song in a Discord Channel
+    b) We save these things for legal reasons, and so if anyone goes against the rules, we knnow who
+3. How is this data shared?
+    1) Only the song files are shared
+    2) We do not share Usernames with anybody, not even for money
